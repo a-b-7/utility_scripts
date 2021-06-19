@@ -1,0 +1,3372 @@
+id
+id
+
+id
+id
+-	-
+version_id
+version_id
+
+version_id
+version_id
+-	-
+Enable PDF/A Rendition
+enable_pdfa_rendition__v
+
+Enable PDF/A Rendition
+enable_pdfa_rendition__v
+-	-
+Include Linked References
+include_linked_references__v
+
+Include Linked References
+include_linked_references__v
+-	-
+Product Family Group- EGT
+product_family_group_egt__c
+
+Product Family Group- EGT
+product_family_group_egt__c
+-	-
+Visit - All Addresses Opt-Out Short Desc
+visit_all_addresses_optout_short_desc__c
+
+Visit - All Addresses Opt-Out Short Desc
+visit_all_addresses_optout_short_desc__c
+-	-
+Lilly Distribution Contact
+lilly_distribution_contact__c
+
+Lilly Distribution Contact
+lilly_distribution_contact__c
+-	-
+Available for Web Ordering
+available_for_web_ordering__c
+
+Available for Web Ordering
+available_for_web_ordering__c
+-	-
+2253 Document Name
+2253_document_name__c
+
+2253 Document Name
+2253_document_name__c
+-	-
+Department
+department__c
+
+Department
+department__c
+-	-
+CoBrowse Content
+cobrowse_content__v
+
+CoBrowse Content
+cobrowse_content__v
+-	-
+Source Owner
+source_owner__v
+
+Source Owner
+source_owner__v
+-	-
+Rights Resource Type
+rights_resource_type__v
+
+Rights Resource Type
+rights_resource_type__v
+-	-
+US Reorder Counter
+us_reorder_counter__c
+
+US Reorder Counter
+us_reorder_counter__c
+-	-
+Event Topic
+crm_event_topic__v
+
+Event Topic
+crm_event_topic__v
+-	-
+Reply To Name
+reply_to_name__v
+
+Reply To Name
+reply_to_name__v
+-	-
+Expedite Pre-MLR
+expedite_premlr__c
+
+Expedite Pre-MLR
+expedite_premlr__c
+-	-
+Production CDN URL
+production_cdn_url__v
+
+Production CDN URL
+production_cdn_url__v
+-	-
+Reacquisition
+reacquisition__c
+
+Reacquisition
+reacquisition__c
+-	-
+Template Document
+template_document__v
+
+Template Document
+template_document__v
+-	-
+Total circulation purchased
+total_circulation_purchased__c
+
+Total circulation purchased
+total_circulation_purchased__c
+-	-
+Patient Medication Guide Number
+patient_medication_guide_number__c
+
+Patient Medication Guide Number
+patient_medication_guide_number__c
+-	-
+Claim Pertains to a
+claim_pertains_to_a__c
+
+Claim Pertains to a
+claim_pertains_to_a__c
+-	-
+Region
+region_jeff_object_lookup_test__c
+
+Region
+region_jeff_object_lookup_test__c
+-	-
+Lilly Privacy Ack Short Desc
+fax_all_fax_numbers_short_desc__c
+
+Lilly Privacy Ack Short Desc
+fax_all_fax_numbers_short_desc__c
+-	-
+File Name
+filename__v
+
+File Name
+filename__v
+-	-
+Describe other restrictions
+describe_other_restrictions__c
+
+Describe other restrictions
+describe_other_restrictions__c
+-	-
+Publication Date
+publication_date__c
+
+Publication Date
+publication_date__c
+-	-
+Brief Summary Number
+brief_summary_number__c
+
+Brief Summary Number
+brief_summary_number__c
+-	-
+Is it Pre-Approved?
+is_it_preapproved__c
+
+Is it Pre-Approved?
+is_it_preapproved__c
+-	-
+Are There Limitations?
+are_there_limitations__c
+
+Are There Limitations?
+are_there_limitations__c
+-	-
+Detailed Audience
+detailed_audience__c
+
+Detailed Audience
+detailed_audience__c
+-	-
+Actual Submitted Date
+actual_submitted_date__v
+
+Actual Submitted Date
+actual_submitted_date__v
+-	-
+Source Number
+source_document_number__v
+
+Source Number
+source_document_number__v
+-	-
+Legacy Identifier
+legacy_identifier__c
+
+Legacy Identifier
+legacy_identifier__c
+-	-
+PMC Associated
+usage_rights_associated__c
+
+PMC Associated
+usage_rights_associated__c
+-	-
+Content Creation Cost
+content_creation_cost__v
+
+Content Creation Cost
+content_creation_cost__v
+-	-
+Cost Per Unit
+cost_per_unit__c
+
+Cost Per Unit
+cost_per_unit__c
+-	-
+Rights Language
+rights_language__v
+
+Rights Language
+rights_language__v
+-	-
+Is Data Accuracy Review Required?
+is_dar_required__c
+
+Is Data Accuracy Review Required?
+is_dar_required__c
+-	-
+Notes
+notes__v
+
+Notes
+notes__v
+-	-
+Embedded Viewer Page
+document_host_url__v
+
+Embedded Viewer Page
+document_host_url__v
+-	-
+Training
+crm_training__v
+
+Training
+crm_training__v
+-	-
+Approved User Group
+approved_user_group__c
+
+Approved User Group
+approved_user_group__c
+-	-
+Primary Category
+primary_category__c
+
+Primary Category
+primary_category__c
+-	-
+Subtype
+subtype__v
+
+Subtype
+subtype__v
+-	-
+Revision Notice
+revision_notice__c
+
+Revision Notice
+revision_notice__c
+-	-
+Contact Name
+contact_name__c
+
+Contact Name
+contact_name__c
+-	-
+Targeted Communication Date
+targeted_communication_date__c
+
+Targeted Communication Date
+targeted_communication_date__c
+-	-
+Allow PDF Download
+allow_pdf_download__v
+
+Allow PDF Download
+allow_pdf_download__v
+-	-
+Secondary Category
+secondary_category__c
+
+Secondary Category
+secondary_category__c
+-	-
+Volume
+volume__c
+
+Volume
+volume__c
+-	-
+Leave Behind
+leave_behind__c
+
+Leave Behind
+leave_behind__c
+-	-
+Vendor(s)
+vendors__c
+
+Vendor(s)
+vendors__c
+-	-
+Original Approval Date
+original_approval_date__c
+
+Original Approval Date
+original_approval_date__c
+-	-
+Contains Content Contracted via CMS/CPS?
+contracted_speakeradvisor_content__c
+
+Contains Content Contracted via CMS/CPS?
+contracted_speakeradvisor_content__c
+-	-
+Staging CDN URL
+staging_cdn_url__v
+
+Staging CDN URL
+staging_cdn_url__v
+-	-
+Privacy Opt-Out Short Description
+privacy_optout_short_description__c
+
+Privacy Opt-Out Short Description
+privacy_optout_short_description__c
+-	-
+Source Country
+country_of_purchase__c
+
+Source Country
+country_of_purchase__c
+-	-
+Lilly Internal Area 
+lilly_internal_area__c
+
+Lilly Internal Area
+lilly_internal_area__c
+-	-
+Retirement Status Reason
+retirement_status_reason__c
+
+Retirement Status Reason
+retirement_status_reason__c
+-	-
+CRM Product Group
+crm_product_group__v
+
+CRM Product Group
+crm_product_group__v
+-	-
+Expedite Review
+expedite_workflow__c
+
+Expedite Review
+expedite_workflow__c
+-	-
+Transfer of Value Short Desc
+transfer_of_value_short_desc__c
+
+Transfer of Value Short Desc
+transfer_of_value_short_desc__c
+-	-
+Email - All Addresses Short Description
+email_all_addresses_short_description__c
+
+Email - All Addresses Short Description
+email_all_addresses_short_description__c
+-	-
+Annotations (Claim Links)
+annotations_claim__v
+
+Annotations (Claim Links)
+annotations_claim__v
+-	-
+EntitlementTypes
+entitlementtypes__c
+
+EntitlementTypes
+entitlementtypes__c
+-	-
+Approval Path
+approval_process__c
+
+Approval Path
+approval_process__c
+-	-
+Latest Source Minor Version
+latest_source_minor_version__v
+
+Latest Source Minor Version
+latest_source_minor_version__v
+-	-
+Age
+age__c
+
+Age
+age__c
+-	-
+Presentation Id
+crm_presentation_id__v
+
+Presentation Id
+crm_presentation_id__v
+-	-
+Lilly Privacy Ack Opt Out Desc
+fax_all_fax_numbers_opt_out_desc__c
+
+Lilly Privacy Ack Opt Out Desc
+fax_all_fax_numbers_opt_out_desc__c
+-	-
+Reprint Type
+reprint_type__c
+
+Reprint Type
+reprint_type__c
+-	-
+Version Creation Date
+version_creation_date__v
+
+Version Creation Date
+version_creation_date__v
+-	-
+Merge Fields
+merge_fields__v
+
+Merge Fields
+merge_fields__v
+-	-
+Printed/Physical Tactic Category
+printedphysical_tactic_category__c
+
+Printed/Physical Tactic Category
+printedphysical_tactic_category__c
+-	-
+Reply To Address
+reply_to_address__v
+
+Reply To Address
+reply_to_address__v
+-	-
+Phone Opt-Out Short Description
+phone_optout_short_description__c
+
+Phone Opt-Out Short Description
+phone_optout_short_description__c
+-	-
+Start Date
+crm_start_date__v
+
+Start Date
+crm_start_date__v
+-	-
+From Address
+from_address__v
+
+From Address
+from_address__v
+-	-
+HTML Height
+engage_html_height__v
+
+HTML Height
+engage_html_height__v
+-	-
+Indication
+indication__c
+
+Indication
+indication__c
+-	-
+Lifecycle Stage
+stage__sys
+
+Lifecycle Stage
+stage__sys
+-	-
+Rights Other
+rights_other__v
+
+Rights Other
+rights_other__v
+-	-
+Embedded Labeling
+embedded_labeling1__c
+
+Embedded Labeling
+embedded_labeling1__c
+-	-
+Last Auto-Filed Date
+binder_last_autofiled_date__v
+
+Last Auto-Filed Date
+binder_last_autofiled_date__v
+-	-
+Licensed Channels
+media_for_usage__c
+
+Licensed Channels
+media_for_usage__c
+-	-
+Product Offer Description
+product_offer_description__c
+
+Product Offer Description
+product_offer_description__c
+-	-
+Email Template Type
+email_template_type__v
+
+Email Template Type
+email_template_type__v
+-	-
+Comments
+comments__v
+
+Comments
+comments__v
+-	-
+Duration
+file_meta_duration__v
+
+Duration
+file_meta_duration__v
+-	-
+SMS Opt-Out Short Description
+sms_optout_short_description__c
+
+SMS Opt-Out Short Description
+sms_optout_short_description__c
+-	-
+Country of Origin
+country_of_origin1__c
+
+Country of Origin
+country_of_origin1__c
+-	-
+Is Claim supported by RWE?
+is_claim_supported_by_rwe1__c
+
+Is Claim supported by RWE?
+is_claim_supported_by_rwe1__c
+-	-
+Privacy Short Description
+privacy_short_description__c
+
+Privacy Short Description
+privacy_short_description__c
+-	-
+Product
+product__v
+
+Product
+product__v
+-	-
+Training Destination
+lms_training_assignment__c
+
+Training Destination
+lms_training_assignment__c
+-	-
+Creative Owner Org
+creative_owner_org__c
+
+Creative Owner Org
+creative_owner_org__c
+-	-
+Subject
+subject__v
+
+Subject
+subject__v
+-	-
+Annotation (Anchors)
+annotations_anchors__v
+
+Annotation (Anchors)
+annotations_anchors__v
+-	-
+Public Content
+public_content__v
+
+Public Content
+public_content__v
+-	-
+Accelerated Approval Timeframe
+future_submission_date__c
+
+Accelerated Approval Timeframe
+future_submission_date__c
+-	-
+URL
+url__c
+
+URL
+url__c
+-	-
+Acquiring Company
+acquiring_company__c
+
+Acquiring Company
+acquiring_company__c
+-	-
+IBU CF Production Release
+ibu_cf_production_release1__c
+
+IBU CF Production Release
+ibu_cf_production_release1__c
+-	-
+Audience
+event_audience__v
+
+Audience
+event_audience__v
+-	-
+Hierarchy Filter
+hierarchy_filter__c
+
+Hierarchy Filter
+hierarchy_filter__c
+-	-
+Disable Actions
+crm_disable_actions__v
+
+Disable Actions
+crm_disable_actions__v
+-	-
+Primary Submission
+submission__v
+
+Primary Submission
+submission__v
+-	-
+Piece Type
+piece_type__c
+
+Piece Type
+piece_type__c
+-	-
+Reference Source
+reference_source__vs
+
+Reference Source
+reference_source__vs
+-	-
+Lifecycle State Stage ID
+state_stage_id__sys
+
+Lifecycle State Stage ID
+state_stage_id__sys
+-	-
+MLR Cycle Count
+mlr_cycle_count__vs
+
+MLR Cycle Count
+mlr_cycle_count__vs
+-	-
+Territory
+territory__c
+
+Territory
+territory__c
+-	-
+Customer Type
+customer_type__c
+
+Customer Type
+customer_type__c
+-	-
+Express Lane Count
+express_lane_count__c
+
+Express Lane Count
+express_lane_count__c
+-	-
+Archived Date
+archived_date__sys
+
+Archived Date
+archived_date__sys
+-	-
+Responsible Official 
+pm_contact__v
+
+Responsible Official
+pm_contact__v
+-	-
+Important Safety Information Number
+important_safety_information_number__c
+
+Important Safety Information Number
+important_safety_information_number__c
+-	-
+Template Document Type
+template_doctype__v
+
+Template Document Type
+template_doctype__v
+-	-
+Color Space
+file_meta_color_space__v
+
+Color Space
+file_meta_color_space__v
+-	-
+Digital Publishing
+cdn_content__v
+
+Digital Publishing
+cdn_content__v
+-	-
+Annotation (Notes)
+annotations_notes__v
+
+Annotation (Notes)
+annotations_notes__v
+-	-
+eWizard Link
+ewizard_link__c
+
+eWizard Link
+ewizard_link__c
+-	-
+Item of Value
+item_of_value__c
+
+Item of Value
+item_of_value__c
+-	-
+Source of supporting data
+source_of_supporting_data1__c
+
+Source of supporting data
+source_of_supporting_data1__c
+-	-
+Checked Out Date
+locked_date__v
+
+Checked Out Date
+locked_date__v
+-	-
+Overarching
+overarching__c
+
+Overarching
+overarching__c
+-	-
+SMS Short Description
+sms_short_description__c
+
+SMS Short Description
+sms_short_description__c
+-	-
+Periodic Review Date
+review_date__c
+
+Periodic Review Date
+review_date__c
+-	-
+Asset License Type
+asset_license_type__c
+
+Asset License Type
+asset_license_type__c
+-	-
+Document Status-delete
+document_status__c
+
+Document Status-delete
+document_status__c
+-	-
+Therapeutic Area Exclusions
+therapeutic_area_exclusions__c
+
+Therapeutic Area Exclusions
+therapeutic_area_exclusions__c
+-	-
+Related Content Display Order
+crm_related_content_display_order__v
+
+Related Content Display Order
+crm_related_content_display_order__v
+-	-
+Secondary Brands
+secondary_brands__v
+
+Secondary Brands
+secondary_brands__v
+-	-
+Coordinator Reason Not Ready for MLR
+coordinator_reason_not_ready_for_mlr__c
+
+Coordinator Reason Not Ready for MLR
+coordinator_reason_not_ready_for_mlr__c
+-	-
+Contact Email
+contact_email__c
+
+Contact Email
+contact_email__c
+-	-
+Document State
+document_state__c
+
+Document State
+document_state__c
+-	-
+Consent Check
+check_consent__v
+
+Consent Check
+check_consent__v
+-	-
+CLM Content
+clm_content__v
+
+CLM Content
+clm_content__v
+-	-
+Other Approval Process
+other_approval_process__c
+
+Other Approval Process
+other_approval_process__c
+-	-
+Initial Steady State Date
+initial_steadystate_date__v
+
+Initial Steady State Date
+initial_steadystate_date__v
+-	-
+Approved for Distribution Date
+approved_for_distribution_date__vs
+
+Approved for Distribution Date
+approved_for_distribution_date__vs
+-	-
+Communication Method
+communication_method__c
+
+Communication Method
+communication_method__c
+-	-
+Material ID
+material_id__v
+
+Material ID
+material_id__v
+-	-
+Ready for Production Date
+approved_for_production_date__vs
+
+Ready for Production Date
+approved_for_production_date__vs
+-	-
+Phone Short Description
+phone_short_description__c
+
+Phone Short Description
+phone_short_description__c
+-	-
+Attribution statement
+attribution_statement__c
+
+Attribution statement
+attribution_statement__c
+-	-
+Special Notes
+special_notes__c
+
+Special Notes
+special_notes__c
+-	-
+Transferable License
+transferable_license__c
+
+Transferable License
+transferable_license__c
+-	-
+IC Reapproval Counter
+ic_reapproval_counter__c
+
+IC Reapproval Counter
+ic_reapproval_counter__c
+-	-
+Link Status
+link_status__v
+
+Link Status
+link_status__v
+-	-
+Bcc
+bcc__v
+
+Bcc
+bcc__v
+-	-
+Is this the Main Kit component?
+is_this_the_main_kit_component__c
+
+Is this the Main Kit component?
+is_this_the_main_kit_component__c
+-	-
+Copyright
+file_meta_copyright__v
+
+Copyright
+file_meta_copyright__v
+-	-
+eWizard Content
+ewizard_content__c
+
+eWizard Content
+ewizard_content__c
+-	-
+Post-Submission Doc Update Required
+postsubmission_update_required__c
+
+Post-Submission Doc Update Required
+postsubmission_update_required__c
+-	-
+Email Domain
+email_domain__v
+
+Email Domain
+email_domain__v
+-	-
+Document Fit
+document_fit__v
+
+Document Fit
+document_fit__v
+-	-
+Proofreader Return to Owner
+proofreader_return_to_owner__c
+
+Proofreader Return to Owner
+proofreader_return_to_owner__c
+-	-
+SMS - All SMS Numbers Opt-Out Short Desc
+sms_all_sms_numbers_optout_short_desc__c
+
+SMS - All SMS Numbers Opt-Out Short Desc
+sms_all_sms_numbers_optout_short_desc__c
+-	-
+Source Vault Name
+source_vault_name__v
+
+Source Vault Name
+source_vault_name__v
+-	-
+Distribution Location
+distribution_location1__c
+
+Distribution Location
+distribution_location1__c
+-	-
+Checked Out By
+locked_by__v
+
+Checked Out By
+locked_by__v
+-	-
+Initial In Review Date
+initial_inreview_date__v
+
+Initial In Review Date
+initial_inreview_date__v
+-	-
+Proofreader Reason Not Ready for MLR
+proofreader_reason_not_ready_for_mlr__c
+
+Proofreader Reason Not Ready for MLR
+proofreader_reason_not_ready_for_mlr__c
+-	-
+Version Created By
+version_created_by__v
+
+Version Created By
+version_created_by__v
+-	-
+Non-Certified Vendors
+noncertified_vendors__c
+
+Non-Certified Vendors
+noncertified_vendors__c
+-	-
+FDAMA Section 114
+fdama_section_114__c
+
+FDAMA Section 114
+fdama_section_114__c
+-	-
+Directory
+crm_directory__v
+
+Directory
+crm_directory__v
+-	-
+Record Class Code
+record_class_code__c
+
+Record Class Code
+record_class_code__c
+-	-
+CRM Detail Group
+crm_detail_group__v
+
+CRM Detail Group
+crm_detail_group__v
+-	-
+Portal Widget
+portal_widget__v
+
+Portal Widget
+portal_widget__v
+-	-
+Communication Type
+internal_audience__c
+
+Communication Type
+internal_audience__c
+-	-
+Purchased by
+purchased_by__c
+
+Purchased by
+purchased_by__c
+-	-
+Kit Type
+main_kit_component__c
+
+Kit Type
+main_kit_component__c
+-	-
+Lifecycle
+lifecycle__v
+
+Lifecycle
+lifecycle__v
+-	-
+Detail Group
+detail_group__v
+
+Detail Group
+detail_group__v
+-	-
+Circulation used to date
+circulation_used_to_date__c
+
+Circulation used to date
+circulation_used_to_date__c
+-	-
+Phone - All Phone Numbers Opt-Out Short 
+phone_all_phone_numbers_optout_short__c
+
+Phone - All Phone Numbers Opt-Out Short
+phone_all_phone_numbers_optout_short__c
+-	-
+Use China CDN
+use_china_cdn__v
+
+Use China CDN
+use_china_cdn__v
+-	-
+Year
+file_meta_year__v
+
+Year
+file_meta_year__v
+-	-
+Portal Tags
+portal_tags__c
+
+Portal Tags
+portal_tags__c
+-	-
+File Last Modified By
+file_modified_by__v
+
+File Last Modified By
+file_modified_by__v
+-	-
+Therapeutic Area Inclusions
+therapeutic_area_inclusions__c
+
+Therapeutic Area Inclusions
+therapeutic_area_inclusions__c
+-	-
+Professional / Consumer
+professional_consumer__c
+
+Professional / Consumer
+professional_consumer__c
+-	-
+Cycle Count NEW
+cycle_count_new__c
+
+Cycle Count NEW
+cycle_count_new__c
+-	-
+Mail Short Description
+mail_short_description__c
+
+Mail Short Description
+mail_short_description__c
+-	-
+Name
+name__v
+
+Name
+name__v
+-	-
+Pages
+pages__v
+
+Pages
+pages__v
+-	-
+Days to Approval
+days_to_approval__v
+
+Days to Approval
+days_to_approval__v
+-	-
+Description
+description__v
+
+Description
+description__v
+-	-
+Certification Complete
+certification_complete__c
+
+Certification Complete
+certification_complete__c
+-	-
+Brand Review Count (PP)
+brand_review_count_pp__c
+
+Brand Review Count (PP)
+brand_review_count_pp__c
+-	-
+Post-MLR Approval Due Date
+postmlr_approval_due_date__c
+
+Post-MLR Approval Due Date
+postmlr_approval_due_date__c
+-	-
+Project Owner Org
+project_owner_org__c
+
+Project Owner Org
+project_owner_org__c
+-	-
+Test (QA) Viewers
+test_qa_viewers__c
+
+Test (QA) Viewers
+test_qa_viewers__c
+-	-
+Pages OCR'ed (%)
+pages_ocred_percent__sys
+
+Pages OCR'ed (%)
+pages_ocred_percent__sys
+-	-
+Transparency Opt-Out Short Description
+transparency_optout_short_description__c
+
+Transparency Opt-Out Short Description
+transparency_optout_short_description__c
+-	-
+Promotional Material Information
+promotional_material_information__v
+
+Promotional Material Information
+promotional_material_information__v
+-	-
+iOS Resolution
+ios_resolution__v
+
+iOS Resolution
+ios_resolution__v
+-	-
+Annotations (Approved Links)
+annotations_approved__v
+
+Annotations (Approved Links)
+annotations_approved__v
+-	-
+Center
+center_ectd__v
+
+Center
+center_ectd__v
+-	-
+Approved for Products
+approved_for_products__c
+
+Approved for Products
+approved_for_products__c
+-	-
+Last Modified Date
+version_modified_date__v
+
+Last Modified Date
+version_modified_date__v
+-	-
+CLM ID
+clm_id__v
+
+CLM ID
+clm_id__v
+-	-
+Media Location
+file_meta_location__v
+
+Media Location
+file_meta_location__v
+-	-
+Source Vault ID
+source_vault_id__v
+
+Source Vault ID
+source_vault_id__v
+-	-
+Disable Vault Overlays
+disable_vault_overlays__v
+
+Disable Vault Overlays
+disable_vault_overlays__v
+-	-
+End Date
+crm_end_date__v
+
+End Date
+crm_end_date__v
+-	-
+General Marketing Short Description
+general_marketing_short_description__c
+
+General Marketing Short Description
+general_marketing_short_description__c
+-	-
+Content Type
+content_type__v
+
+Content Type
+content_type__v
+-	-
+Promotional Document Number
+promotional_document_number__v
+
+Promotional Document Number
+promotional_document_number__v
+-	-
+Segment
+crm_segment__v
+
+Segment
+crm_segment__v
+-	-
+Annotation (Links)
+annotations_links__v
+
+Annotation (Links)
+annotations_links__v
+-	-
+NDA/BLA License Number
+ndabla_license_number__c
+
+NDA/BLA License Number
+ndabla_license_number__c
+-	-
+Reapproval Date
+reapproval_date__c
+
+Reapproval Date
+reapproval_date__c
+-	-
+Training Audience
+training_audience__c
+
+Training Audience
+training_audience__c
+-	-
+Salesforce Filter
+salesforce_filter__c
+
+Salesforce Filter
+salesforce_filter__c
+-	-
+Copy Depth
+copy_depth__v
+
+Copy Depth
+copy_depth__v
+-	-
+Submission Date
+submission_date__vs
+
+Submission Date
+submission_date__vs
+-	-
+OCR Requested
+ocr_requested__sys
+
+OCR Requested
+ocr_requested__sys
+-	-
+Application
+application__v
+
+Application
+application__v
+-	-
+Moment of Truth
+moment_of_truth__c
+
+Moment of Truth
+moment_of_truth__c
+-	-
+Withdrawal Effective Date
+withdrawal_effective_date__vs
+
+Withdrawal Effective Date
+withdrawal_effective_date__vs
+-	-
+2253 Submission Required
+submission_required__vs
+
+2253 Submission Required
+submission_required__vs
+-	-
+CRM Product
+crm_product__v
+
+CRM Product
+crm_product__v
+-	-
+Submission Date
+submission_date__c
+
+Submission Date
+submission_date__c
+-	-
+Rendition Suppressed
+suppress_rendition__v
+
+Rendition Suppressed
+suppress_rendition__v
+-	-
+Binder Locked
+binder_locked__v
+
+Binder Locked
+binder_locked__v
+-	-
+Describe change made to project
+describe_change_made_to_project__c
+
+Describe change made to project
+describe_change_made_to_project__c
+-	-
+Meeting Type
+meeting_type__c
+
+Meeting Type
+meeting_type__c
+-	-
+Trackable Item
+trackable_item__c
+
+Trackable Item
+trackable_item__c
+-	-
+SAP Number
+sap_number__c
+
+SAP Number
+sap_number__c
+-	-
+iOS Viewer
+crm_ios_viewer__v
+
+iOS Viewer
+crm_ios_viewer__v
+-	-
+PCI Last Valid Expiration Date
+pci_last_valid_expiration_date__c
+
+PCI Last Valid Expiration Date
+pci_last_valid_expiration_date__c
+-	-
+Target Completion Date
+target_completion_date__c
+
+Target Completion Date
+target_completion_date__c
+-	-
+Annotations (Auto Links)
+annotations_auto__v
+
+Annotations (Auto Links)
+annotations_auto__v
+-	-
+Therapeutic Area Restriction(s)
+therapeutic_area_restrictions1__c
+
+Therapeutic Area Restriction(s)
+therapeutic_area_restrictions1__c
+-	-
+Last Valid Expiration Date
+last_valid_expiration_date__c
+
+Last Valid Expiration Date
+last_valid_expiration_date__c
+-	-
+Approximate Retail Value
+approximate_retail_value__c
+
+Approximate Retail Value
+approximate_retail_value__c
+-	-
+Email Sub Type
+email_sub_type__c
+
+Email Sub Type
+email_sub_type__c
+-	-
+HTML Width
+engage_html_width__v
+
+HTML Width
+engage_html_width__v
+-	-
+Post-MLR Approval Required
+is_postmlr_approval_required__c
+
+Post-MLR Approval Required
+is_postmlr_approval_required__c
+-	-
+Planned Retirement Date
+planned_retirement_date__c
+
+Planned Retirement Date
+planned_retirement_date__c
+-	-
+Reason for Extension
+reason_for_extension__c
+
+Reason for Extension
+reason_for_extension__c
+-	-
+Submission Notes
+submission_notes__v
+
+Submission Notes
+submission_notes__v
+-	-
+Media Title
+file_meta_title__v
+
+Media Title
+file_meta_title__v
+-	-
+Minor Version Number
+minor_version_number__v
+
+Minor Version Number
+minor_version_number__v
+-	-
+Content Producer
+content_producer__c
+
+Content Producer
+content_producer__c
+-	-
+Storage Status
+storage_status__c
+
+Storage Status
+storage_status__c
+-	-
+Conversion Metric
+conversion_metric__c
+
+Conversion Metric
+conversion_metric__c
+-	-
+Expedite MLR Readiness
+expedite_mlr_readiness__c
+
+Expedite MLR Readiness
+expedite_mlr_readiness__c
+-	-
+Method of Dissemination
+method_of_dissemination__c
+
+Method of Dissemination
+method_of_dissemination__c
+-	-
+SMS - All SMS Numbers Short Description
+sms_all_sms_numbers_short_description__c
+
+SMS - All SMS Numbers Short Description
+sms_all_sms_numbers_short_description__c
+-	-
+File Last Modified Date
+file_modified_date__v
+
+File Last Modified Date
+file_modified_date__v
+-	-
+File Created Date
+file_created_date__v
+
+File Created Date
+file_created_date__v
+-	-
+All Vendors Privacy Certified
+all_vendors_privacy_certified__c
+
+All Vendors Privacy Certified
+all_vendors_privacy_certified__c
+-	-
+Approved for Use Date
+approved_for_use_date__c
+
+Approved for Use Date
+approved_for_use_date__c
+-	-
+Third party data transfer Opt-Out Short 
+third_party_data_transfer_optout_short__c
+
+Third party data transfer Opt-Out Short
+third_party_data_transfer_optout_short__c
+-	-
+CRM Org
+crm_org__v
+
+CRM Org
+crm_org__v
+-	-
+Claim is intended to be used:
+when_will_claim_be_used_in_the__c
+
+Claim is intended to be used:
+when_will_claim_be_used_in_the__c
+-	-
+Timing
+timing__c
+
+Timing
+timing__c
+-	-
+Search by Keyword
+crm_keyword__v
+
+Search by Keyword
+crm_keyword__v
+-	-
+Other Restrictions on Usage
+other_restrictions_on_usage__c
+
+Other Restrictions on Usage
+other_restrictions_on_usage__c
+-	-
+Campaign
+campaign__vs
+
+Campaign
+campaign__vs
+-	-
+ARCC Category
+arcc_category__c
+
+ARCC Category
+arcc_category__c
+-	-
+Restrict Fragments by Product
+restrict_fragments_by_product__v
+
+Restrict Fragments by Product
+restrict_fragments_by_product__v
+-	-
+EGT Test new name 3
+egt_test_field__c
+
+EGT Test new name 3
+egt_test_field__c
+-	-
+Bound Source Major Version
+bound_source_major_version__v
+
+Bound Source Major Version
+bound_source_major_version__v
+-	-
+Authors
+authors__vs
+
+Authors
+authors__vs
+-	-
+Communication Recipient
+communication_recipient__c
+
+Communication Recipient
+communication_recipient__c
+-	-
+Keywords
+file_meta_keywords__v
+
+Keywords
+file_meta_keywords__v
+-	-
+Export File Name
+export_filename__v
+
+Export File Name
+export_filename__v
+-	-
+Last Auto-Filed By
+binder_last_autofiled_by__v
+
+Last Auto-Filed By
+binder_last_autofiled_by__v
+-	-
+Message/Topic
+messagetopic__c
+
+Message/Topic
+messagetopic__c
+-	-
+Launch Material Type
+launch_material_type__v
+
+Launch Material Type
+launch_material_type__v
+-	-
+Jeff Object Test
+jeff_object_test__c
+
+Jeff Object Test
+jeff_object_test__c
+-	-
+Visit - All Addresses Short Description
+visit_all_addresses_short_description__c
+
+Visit - All Addresses Short Description
+visit_all_addresses_short_description__c
+-	-
+Proofreader Reason for Not Approved
+proofreader_reason_for_rejected__c
+
+Proofreader Reason for Not Approved
+proofreader_reason_for_rejected__c
+-	-
+Created Date
+document_creation_date__v
+
+Created Date
+document_creation_date__v
+-	-
+Certification Reapproval Due Date
+certification_reapproval_due_date__c
+
+Certification Reapproval Due Date
+certification_reapproval_due_date__c
+-	-
+Countries Excluded
+geographies_excluded__c
+
+Countries Excluded
+geographies_excluded__c
+-	-
+CRM Media Type
+crm_media_type__v
+
+CRM Media Type
+crm_media_type__v
+-	-
+Third party data transfer Short Descript
+third_party_data_transfer_short_descript__c
+
+Third party data transfer Short Descript
+third_party_data_transfer_short_descript__c
+-	-
+Reapproval Count
+reapproval_count__c
+
+Reapproval Count
+reapproval_count__c
+-	-
+Mail Opt-Out Short Description
+mail_optout_short_description__c
+
+Mail Opt-Out Short Description
+mail_optout_short_description__c
+-	-
+Regulatory Number
+regulatory_number__c
+
+Regulatory Number
+regulatory_number__c
+-	-
+Quality Sensitive
+quality_sensitive__c
+
+Quality Sensitive
+quality_sensitive__c
+-	-
+HCP Benefit
+hcp_benefit__c
+
+HCP Benefit
+hcp_benefit__c
+-	-
+xRegion
+xregion__c
+
+xRegion
+xregion__c
+-	-
+Usage Rights Expiration Date
+usage_rights_expiration_date__c
+
+Usage Rights Expiration Date
+usage_rights_expiration_date__c
+-	-
+ARCC
+arcc__c
+
+ARCC
+arcc__c
+-	-
+Migration Date
+migration_date1__c
+
+Migration Date
+migration_date1__c
+-	-
+Language
+language__v
+
+Language
+language__v
+-	-
+Ethnicity
+ethnicity__c
+
+Ethnicity
+ethnicity__c
+-	-
+Permission Type
+usage_rights_subtype__c
+
+Permission Type
+usage_rights_subtype__c
+-	-
+FTP Source Location
+ftp_source_location__v
+
+FTP Source Location
+ftp_source_location__v
+-	-
+Workflow expedited?
+workflow_expedited__c
+
+Workflow expedited?
+workflow_expedited__c
+-	-
+Self Checkout Count
+self_checkout_count__c
+
+Self Checkout Count
+self_checkout_count__c
+-	-
+Submission Response Received
+submission_response_received__c
+
+Submission Response Received
+submission_response_received__c
+-	-
+Is it Pending Launch?
+is_it_preapproved1__c
+
+Is it Pending Launch?
+is_it_preapproved1__c
+-	-
+Testing CB
+testing_cb__c
+
+Testing CB
+testing_cb__c
+-	-
+Usage Right Expiration
+usage_right_expiration__c
+
+Usage Right Expiration
+usage_right_expiration__c
+-	-
+Audience
+audience__vs
+
+Audience
+audience__vs
+-	-
+Social Media Channel
+social_media_channel__c
+
+Social Media Channel
+social_media_channel__c
+-	-
+WeChat Content
+wechat_content_wec__v
+
+WeChat Content
+wechat_content_wec__v
+-	-
+Primary Category_NEW
+primary_category_new__c
+
+Primary Category_NEW
+primary_category_new__c
+-	-
+Intern HCP Visit Short Description
+intern_hcp_visit_short_description__c
+
+Intern HCP Visit Short Description
+intern_hcp_visit_short_description__c
+-	-
+Shareable In WeChat
+shareable_in_wechat_wec__v
+
+Shareable In WeChat
+shareable_in_wechat_wec__v
+-	-
+Quality Impact
+quality_impact__c
+
+Quality Impact
+quality_impact__c
+-	-
+Storage ID
+storage_id__c
+
+Storage ID
+storage_id__c
+-	-
+Media Comments
+file_meta_comments__v
+
+Media Comments
+file_meta_comments__v
+-	-
+Branding
+branding__c
+
+Branding
+branding__c
+-	-
+FDA Code
+fda_code__c
+
+FDA Code
+fda_code__c
+-	-
+Country Licensed for Use
+country_licensed_for_use__c
+
+Country Licensed for Use
+country_licensed_for_use__c
+-	-
+Intern HCP Visit Opt Out Desc
+intern_hcp_visit_opt_out_desc__c
+
+Intern HCP Visit Opt Out Desc
+intern_hcp_visit_opt_out_desc__c
+-	-
+Secondary Brands Application
+secondary_brands_application__v
+
+Secondary Brands Application
+secondary_brands_application__v
+-	-
+Allow Source Download
+allow_source_download__v
+
+Allow Source Download
+allow_source_download__v
+-	-
+Bulk Action Identifier
+bulk_action_identifier__c
+
+Bulk Action Identifier
+bulk_action_identifier__c
+-	-
+Accelerated Approval Product
+accelerated_approval_product__c
+
+Accelerated Approval Product
+accelerated_approval_product__c
+-	-
+Distribution Contact Name
+contact__c
+
+Distribution Contact Name
+contact__c
+-	-
+Prescribing Information Number
+prescribing_information_number__c
+
+Prescribing Information Number
+prescribing_information_number__c
+-	-
+CustomerTypes
+customertypes__c
+
+CustomerTypes
+customertypes__c
+-	-
+Country Code Jeff Test
+country_code_jeff_test__c
+
+Country Code Jeff Test
+country_code_jeff_test__c
+-	-
+Withdrawal Reason
+reason_for_withdrawal__vs
+
+Withdrawal Reason
+reason_for_withdrawal__vs
+-	-
+Submission Complete
+submission_complete__c
+
+Submission Complete
+submission_complete__c
+-	-
+Is Latest Version
+latest_version__v
+
+Is Latest Version
+latest_version__v
+-	-
+Approved Date
+approved_date__c
+
+Approved Date
+approved_date__c
+-	-
+Classification
+classification__v
+
+Classification
+classification__v
+-	-
+Migration Date for Claim
+migration_date__c
+
+Migration Date for Claim
+migration_date__c
+-	-
+General Marketing Opt-Out Short Descript
+general_marketing_optout_short_descript__c
+
+General Marketing Opt-Out Short Descript
+general_marketing_optout_short_descript__c
+-	-
+ConsentTypes
+consenttypes__c
+
+ConsentTypes
+consenttypes__c
+-	-
+Secondary Sub Category
+secondary_sub_category__c
+
+Secondary Sub Category
+secondary_sub_category__c
+-	-
+Artist
+file_meta_artist__v
+
+Artist
+file_meta_artist__v
+-	-
+Title
+title__v
+
+Title
+title__v
+-	-
+Review Meeting Type
+review_meeting_type__c
+
+Review Meeting Type
+review_meeting_type__c
+-	-
+Post-MLR Approvers
+postmlr_approvers__c
+
+Post-MLR Approvers
+postmlr_approvers__c
+-	-
+Submitted for Variation Review?
+submitted_for_variation_review__c
+
+Submitted for Variation Review?
+submitted_for_variation_review__c
+-	-
+Pre-MLR Approvers
+premlr_approvers__c
+
+Pre-MLR Approvers
+premlr_approvers__c
+-	-
+Annotation (Unresolved)
+annotations_unresolved__v
+
+Annotation (Unresolved)
+annotations_unresolved__v
+-	-
+Planned Date of First Use
+planned_date_of_first_use__vs
+
+Planned Date of First Use
+planned_date_of_first_use__vs
+-	-
+Document Version Link
+version_link__sys
+
+Document Version Link
+version_link__sys
+-	-
+Duration of Use
+duration_of_usage_rights1__c
+
+Duration of Use
+duration_of_usage_rights1__c
+-	-
+Phone - All Phone Numbers Short Descript
+phone_all_phone_numbers_short_descript__c
+
+Phone - All Phone Numbers Short Descript
+phone_all_phone_numbers_short_descript__c
+-	-
+Days to Enter Review
+days_to_enter_review__v
+
+Days to Enter Review
+days_to_enter_review__v
+-	-
+From Name
+from_name__v
+
+From Name
+from_name__v
+-	-
+Circulation Media
+circulation_media__c
+
+Circulation Media
+circulation_media__c
+-	-
+CRM Content Channel
+crm_content_channel__v
+
+CRM Content Channel
+crm_content_channel__v
+-	-
+Tactic Type
+tactic_type__c
+
+Tactic Type
+tactic_type__c
+-	-
+Anticipated Retirement Date
+pending_retirement_date__c
+
+Anticipated Retirement Date
+pending_retirement_date__c
+-	-
+Target Go-Live Date
+target_golive_date__c
+
+Target Go-Live Date
+target_golive_date__c
+-	-
+Pack Size
+pack_size__c
+
+Pack Size
+pack_size__c
+-	-
+Rendition Black Listed
+rendition_black_list_flag__v
+
+Rendition Black Listed
+rendition_black_list_flag__v
+-	-
+Storage Location
+storage_location__c
+
+Storage Location
+storage_location__c
+-	-
+Content Creation Currency
+content_creation_currency__v
+
+Content Creation Currency
+content_creation_currency__v
+-	-
+Expiration Date
+expiration_date__vs
+
+Expiration Date
+expiration_date__vs
+-	-
+Inventory Location(s)
+inventory_location__c
+
+Inventory Location(s)
+inventory_location__c
+-	-
+Permission Managed Content
+usage_rights__c
+
+Permission Managed Content
+usage_rights__c
+-	-
+Other Recipient
+other_recipient__c
+
+Other Recipient
+other_recipient__c
+-	-
+Sequence Number
+sequence_number__c
+
+Sequence Number
+sequence_number__c
+-	-
+Available for Use Date
+available_for_use_date__c
+
+Available for Use Date
+available_for_use_date__c
+-	-
+Withdrawal Notes
+withdrawal_notes__c
+
+Withdrawal Notes
+withdrawal_notes__c
+-	-
+Metadata
+binder_metadata__v
+
+Metadata
+binder_metadata__v
+-	-
+User Manual Number
+user_manual_number__c
+
+User Manual Number
+user_manual_number__c
+-	-
+Is DOF referenced?
+is_dof_referenced__c
+
+Is DOF referenced?
+is_dof_referenced__c
+-	-
+Unique Document Number
+unique_document_number__c
+
+Unique Document Number
+unique_document_number__c
+-	-
+Status
+status__v
+
+Status
+status__v
+-	-
+Re-Order Count
+reorder_count__c
+
+Re-Order Count
+reorder_count__c
+-	-
+Approved for Distribution
+approved_for_distribution__c
+
+Approved for Distribution
+approved_for_distribution__c
+-	-
+Media Description
+file_meta_media_description__v
+
+Media Description
+file_meta_media_description__v
+-	-
+Admin Override
+admin_override__c
+
+Admin Override
+admin_override__c
+-	-
+Pre-MLR Approval Required
+premlr_approval_required__c
+
+Pre-MLR Approval Required
+premlr_approval_required__c
+-	-
+Patient Prescribing Information Number
+patient_prescribing_information_number__c
+
+Patient Prescribing Information Number
+patient_prescribing_information_number__c
+-	-
+Certified Copy
+certified_copy__v
+
+Certified Copy
+certified_copy__v
+-	-
+Production Viewers
+production_viewers__c
+
+Production Viewers
+production_viewers__c
+-	-
+Country Approved for Use
+country__v
+
+Country Approved for Use
+country__v
+-	-
+Key Message
+key_message__v
+
+Key Message
+key_message__v
+-	-
+Promotional Material ID
+promotional_material_id__v
+
+Promotional Material ID
+promotional_material_id__v
+-	-
+Document Number
+document_number__v
+
+Document Number
+document_number__v
+-	-
+Communication Classification
+communication_classification__c
+
+Communication Classification
+communication_classification__c
+-	-
+CRM Territory
+territory__v
+
+CRM Territory
+territory__v
+-	-
+Product Claim Category
+claim_category__vs
+
+Product Claim Category
+claim_category__vs
+-	-
+Is this a Product Claim?
+is_this_a_claim__c
+
+Is this a Product Claim?
+is_this_a_claim__c
+-	-
+Email Opt-Out Short Description
+email_optout_short_description__c
+
+Email Opt-Out Short Description
+email_optout_short_description__c
+-	-
+General Approval?
+general_approval__c
+
+General Approval?
+general_approval__c
+-	-
+Binder Update in Progress
+is_this_binder_updated__c
+
+Binder Update in Progress
+is_this_binder_updated__c
+-	-
+Update Confirmation
+provide_binder_update_confirmation__c
+
+Update Confirmation
+provide_binder_update_confirmation__c
+-	-
+ScopeDeliver TacticID
+scopedeliver_tacticid__c
+
+ScopeDeliver TacticID
+scopedeliver_tacticid__c
+-	-
+RMA
+rma__c
+
+RMA
+rma__c
+-	-
+Number of Reproductions
+number_of_reproductions1__c
+
+Number of Reproductions
+number_of_reproductions1__c
+-	-
+File Created By
+file_created_by__v
+
+File Created By
+file_created_by__v
+-	-
+Designated Branding Use
+branding1__c
+
+Designated Branding Use
+branding1__c
+-	-
+ANSM Classification
+ansm_classification__c
+
+ANSM Classification
+ansm_classification__c
+-	-
+HTML File Name
+engage_html_filename__v
+
+HTML File Name
+engage_html_filename__v
+-	-
+Transfer of Value Opt Out Desc
+transfer_of_value_opt_out_desc__c
+
+Transfer of Value Opt Out Desc
+transfer_of_value_opt_out_desc__c
+-	-
+Actual MLR Start Date
+actual_mlr_start_date__vs
+
+Actual MLR Start Date
+actual_mlr_start_date__vs
+-	-
+Number of Review Cycles
+number_of_review_cycles__v
+
+Number of Review Cycles
+number_of_review_cycles__v
+-	-
+IBU CF Production Release
+ibu_cf_production_release__c
+
+IBU CF Production Release
+ibu_cf_production_release__c
+-	-
+AV Keywords
+asset_description__c
+
+AV Keywords
+asset_description__c
+-	-
+Engage Content
+engage_content__v
+
+Engage Content
+engage_content__v
+-	-
+CrossLink
+crosslink__v
+
+CrossLink
+crosslink__v
+-	-
+Periodic Reviewed?
+periodic_reviewed__c
+
+Periodic Reviewed?
+periodic_reviewed__c
+-	-
+Suggested Links
+annotations_suggested__v
+
+Suggested Links
+annotations_suggested__v
+-	-
+Transparency Short Description
+transparency_short_description__c
+
+Transparency Short Description
+transparency_short_description__c
+-	-
+Checked Out
+locked__v
+
+Checked Out
+locked__v
+-	-
+One Time Use
+one_time_use1__c
+
+One Time Use
+one_time_use1__c
+-	-
+GM Reapproval Counter
+gm_reapproval_counter__c
+
+GM Reapproval Counter
+gm_reapproval_counter__c
+-	-
+Approval Date
+approval_date__c
+
+Approval Date
+approval_date__c
+-	-
+Custom Reaction
+crm_custom_reaction__v
+
+Custom Reaction
+crm_custom_reaction__v
+-	-
+Email Template Subtype
+crm_template_subtype__v
+
+Email Template Subtype
+crm_template_subtype__v
+-	-
+Rights Channel
+rights_channel__v
+
+Rights Channel
+rights_channel__v
+-	-
+Secondary Category
+secondary_category1__c
+
+Secondary Category
+secondary_category1__c
+-	-
+Requested FDA Submission Date
+requested_fda_submission_date__c
+
+Requested FDA Submission Date
+requested_fda_submission_date__c
+-	-
+Reason for Copy
+copy_reason__v
+
+Reason for Copy
+copy_reason__v
+-	-
+Submission Date
+submission_date__v
+
+Submission Date
+submission_date__v
+-	-
+Method of Dissemination Details
+method_of_dissemination_details__c
+
+Method of Dissemination Details
+method_of_dissemination_details__c
+-	-
+Annotation (Lines)
+annotations_lines__v
+
+Annotation (Lines)
+annotations_lines__v
+-	-
+Expedite Proofing
+expedite_proofing__c
+
+Expedite Proofing
+expedite_proofing__c
+-	-
+Batch Number
+batch_number__v
+
+Batch Number
+batch_number__v
+-	-
+Rights Contact
+rights_contact__v
+
+Rights Contact
+rights_contact__v
+-	-
+Email - All Addresses Opt-Out Short Desc
+email_all_addresses_optout_short_desc__c
+
+Email - All Addresses Opt-Out Short Desc
+email_all_addresses_optout_short_desc__c
+-	-
+Target Audience
+target_audience__c
+
+Target Audience
+target_audience__c
+-	-
+External ID
+external_id__v
+
+External ID
+external_id__v
+-	-
+Multi-Component Project
+multicomponent_project__c
+
+Multi-Component Project
+multicomponent_project__c
+-	-
+Promotional Material Document Type
+promotional_material_document_type__v
+
+Promotional Material Document Type
+promotional_material_document_type__v
+-	-
+Survey
+crm_survey__v
+
+Survey
+crm_survey__v
+-	-
+PCI Expiration Date
+pci_expiration_date__c
+
+PCI Expiration Date
+pci_expiration_date__c
+-	-
+Embedded Labeling (No longer used)
+embedded_labeling__c
+
+Embedded Labeling (No longer used)
+embedded_labeling__c
+-	-
+PCI Type
+pci_type__c
+
+PCI Type
+pci_type__c
+-	-
+Major Statement Number
+major_statement_number__c
+
+Major Statement Number
+major_statement_number__c
+-	-
+Originator / Source
+originator_source__c
+
+Originator / Source
+originator_source__c
+-	-
+Geography
+geography__c
+
+Geography
+geography__c
+-	-
+zTEST Country Product Indication
+ztest_country_product_indication__c
+
+zTEST Country Product Indication
+ztest_country_product_indication__c
+-	-
+Secondary Language
+secondary_language__c
+
+Secondary Language
+secondary_language__c
+-	-
+FDA Submission Audience
+fda_submission_audience__c
+
+FDA Submission Audience
+fda_submission_audience__c
+-	-
+Reg Advisor Reason for R&R
+reg_advisor_reason_for_rr__c
+
+Reg Advisor Reason for R&R
+reg_advisor_reason_for_rr__c
+-	-
+Professional / Consumer
+professional_consumer__v
+
+Professional / Consumer
+professional_consumer__v
+-	-
+Source Document Name
+source_document_name__v
+
+Source Document Name
+source_document_name__v
+-	-
+Primary Sub Category
+primary_sub_category__c
+
+Primary Sub Category
+primary_sub_category__c
+-	-
+Requested Advisory Comment Submit Date
+requested_advisory_comment_submit_date__c
+
+Requested Advisory Comment Submit Date
+requested_advisory_comment_submit_date__c
+-	-
+Duration of Usage Rights
+duration_of_usage_rights__c
+
+Duration of Usage Rights
+duration_of_usage_rights__c
+-	-
+Post-MLR Reapproval Due Date
+postmlr_reapproval_due_date__c
+
+Post-MLR Reapproval Due Date
+postmlr_reapproval_due_date__c
+-	-
+Other Approval Required
+other_approval_required__c
+
+Other Approval Required
+other_approval_required__c
+-	-
+Password Protected
+password_protected__c
+
+Password Protected
+password_protected__c
+-	-
+Annotation (All)
+annotations_all__v
+
+Annotation (All)
+annotations_all__v
+-	-
+Usage Rights Start Date
+start_date__c
+
+Usage Rights Start Date
+start_date__c
+-	-
+Email Supporting Document
+email_supporting_document__c
+
+Email Supporting Document
+email_supporting_document__c
+-	-
+Binder Retired Date
+binder_retired_date__c
+
+Binder Retired Date
+binder_retired_date__c
+-	-
+Dosage
+dosage__v
+
+Dosage
+dosage__v
+-	-
+Medical Device Classification
+medical_device_classification__c
+
+Medical Device Classification
+medical_device_classification__c
+-	-
+Latest Source Major Version
+latest_source_major_version__v
+
+Latest Source Major Version
+latest_source_major_version__v
+-	-
+Source Vault Link
+source_vault_link__v
+
+Source Vault Link
+source_vault_link__v
+-	-
+Attribution to Content Provider
+attribution_to_content_provider__c
+
+Attribution to Content Provider
+attribution_to_content_provider__c
+-	-
+Mail - All Addresses Short Description
+mail_all_addresses_short_description__c
+
+Mail - All Addresses Short Description
+mail_all_addresses_short_description__c
+-	-
+Retention Date
+retention_date__c
+
+Retention Date
+retention_date__c
+-	-
+Final disposition of consumer data
+final_disposition_of_consumer_data__c
+
+Final disposition of consumer data
+final_disposition_of_consumer_data__c
+-	-
+Binder Approval Date
+binder_approval_date__c
+
+Binder Approval Date
+binder_approval_date__c
+-	-
+Speaker/Advisor Ref #
+speakeradvisor_ref__c
+
+Speaker/Advisor Ref #
+speakeradvisor_ref__c
+-	-
+Cost per Item
+cost_per_item__c
+
+Cost per Item
+cost_per_item__c
+-	-
+Event Type
+crm_event_type__v
+
+Event Type
+crm_event_type__v
+-	-
+Claims
+related_claims__v
+
+Claims
+related_claims__v
+-	-
+Bound Source Minor Version
+bound_source_minor_version__v
+
+Bound Source Minor Version
+bound_source_minor_version__v
+-	-
+Global ID
+global_id__sys
+
+Global ID
+global_id__sys
+-	-
+Material Type
+material_type__v
+
+Material Type
+material_type__v
+-	-
+Portal
+portal__v
+
+Portal
+portal__v
+-	-
+Approved for all products?
+approved_for_all_products__c
+
+Approved for all products?
+approved_for_all_products__c
+-	-
+Document Link
+link__sys
+
+Document Link
+link__sys
+-	-
+Source Binding Rule
+source_binding_rule__v
+
+Source Binding Rule
+source_binding_rule__v
+-	-
+Enable Survey Overlay
+crm_enable_survey_overlay__v
+
+Enable Survey Overlay
+crm_enable_survey_overlay__v
+-	-
+Geographical Exclusions
+geographical_restrictions__c
+
+Geographical Exclusions
+geographical_restrictions__c
+-	-
+Lilly Distribution Location 
+lilly_distribution_location__c
+
+Lilly Distribution Location
+lilly_distribution_location__c
+-	-
+Withdrawal Explanation
+withdrawal_explanation__c
+
+Withdrawal Explanation
+withdrawal_explanation__c
+-	-
+Shared Resource
+crm_shared_resource__v
+
+Shared Resource
+crm_shared_resource__v
+-	-
+Source Content Module
+source_content_module__v
+
+Source Content Module
+source_content_module__v
+-	-
+Requesting Department
+requesting_department__c
+
+Requesting Department
+requesting_department__c
+-	-
+Indication
+indication__v
+
+Indication
+indication__v
+-	-
+Email Short Description
+email_short_description__c
+
+Email Short Description
+email_short_description__c
+-	-
+Indication
+indication2__c
+
+Indication
+indication2__c
+-	-
+Type
+type__v
+
+Type
+type__v
+-	-
+Tags
+tags__v
+
+Tags
+tags__v
+-	-
+Seeking Advisory Comments
+seeking_advisory_comments__c
+
+Seeking Advisory Comments
+seeking_advisory_comments__c
+-	-
+Media
+media__vs
+
+Media
+media__vs
+-	-
+Variation Count
+variation_count__c
+
+Variation Count
+variation_count__c
+-	-
+Licensor/owner
+licensorimage_owner__c
+
+Licensor/owner
+licensorimage_owner__c
+-	-
+Requesting Business Area
+requesting_business_area__c
+
+Requesting Business Area
+requesting_business_area__c
+-	-
+Variation Approval Date
+variation_approval_date__c
+
+Variation Approval Date
+variation_approval_date__c
+-	-
+Origination or Derivative
+origination_or_derivative__c
+
+Origination or Derivative
+origination_or_derivative__c
+-	-
+Admin Date
+admin_date__c
+
+Admin Date
+admin_date__c
+-	-
+Last Modified By
+last_modified_by__v
+
+Last Modified By
+last_modified_by__v
+-	-
+IBU CF ID
+ibu_cf_id__c
+
+IBU CF ID
+ibu_cf_id__c
+-	-
+Profiling Opt-Out Short Description
+profiling_optout_short_description__c
+
+Profiling Opt-Out Short Description
+profiling_optout_short_description__c
+-	-
+Binder
+binder__v
+
+Binder
+binder__v
+-	-
+Author
+file_meta_author__v
+
+Author
+file_meta_author__v
+-	-
+Expedite Release
+expedite_release__c
+
+Expedite Release
+expedite_release__c
+-	-
+Number of Reproductions
+number_of_reproductions__c
+
+Number of Reproductions
+number_of_reproductions__c
+-	-
+Created By
+created_by__v
+
+Created By
+created_by__v
+-	-
+Destruction Date
+destruction_date__c
+
+Destruction Date
+destruction_date__c
+-	-
+Retirement Reason
+reason_for_retirement__c
+
+Retirement Reason
+reason_for_retirement__c
+-	-
+Website
+website__v
+
+Website
+website__v
+-	-
+Format
+format__v
+
+Format
+format__v
+-	-
+Physical Proof Due Date
+physical_proof_due_date__c
+
+Physical Proof Due Date
+physical_proof_due_date__c
+-	-
+Major Version Number
+major_version_number__v
+
+Major Version Number
+major_version_number__v
+-	-
+Created From
+binder_created_from__v
+
+Created From
+binder_created_from__v
+-	-
+Publish Name Opt-Out Short Description
+publish_name_optout_short_description__c
+
+Publish Name Opt-Out Short Description
+publish_name_optout_short_description__c
+-	-
+Asset Created By
+created_by__c
+
+Asset Created By
+created_by__c
+-	-
+Regulatory Submission Required
+regulatory_submission_required__c
+
+Regulatory Submission Required
+regulatory_submission_required__c
+-	-
+Sub-Region
+subregion__c
+
+Sub-Region
+subregion__c
+-	-
+Retirement Date
+retirement_date__c
+
+Retirement Date
+retirement_date__c
+-	-
+ScopeDeliver TacticID
+scopedeliver_tacticid1__c
+
+ScopeDeliver TacticID
+scopedeliver_tacticid1__c
+-	-
+Notice Language?
+notice_language__c
+
+Notice Language?
+notice_language__c
+-	-
+Last Expired Date
+last_expired_date__c
+
+Last Expired Date
+last_expired_date__c
+-	-
+Actual Date of First Use
+actual_date_of_first_use__c
+
+Actual Date of First Use
+actual_date_of_first_use__c
+-	-
+Global Version ID
+global_version_id__sys
+
+Global Version ID
+global_version_id__sys
+-	-
+Gender
+gender__c
+
+Gender
+gender__c
+-	-
+Source Document ID
+source_document_id__v
+
+Source Document ID
+source_document_id__v
+-	-
+Training Category
+training_category__c
+
+Training Category
+training_category__c
+-	-
+Consumer Health Fair Approval
+consumer_health_fair_approval__c
+
+Consumer Health Fair Approval
+consumer_health_fair_approval__c
+-	-
+Advisory Comment Submit Date
+advisory_comment_submit_date__c
+
+Advisory Comment Submit Date
+advisory_comment_submit_date__c
+-	-
+Agency
+agency__c
+
+Agency
+agency__c
+-	-
+Hidden
+crm_hidden__v
+
+Hidden
+crm_hidden__v
+-	-
+Alignment Requirements
+alignment_requirements__c
+
+Alignment Requirements
+alignment_requirements__c
+-	-
+Restricted Component
+restricted_component__c
+
+Restricted Component
+restricted_component__c
+-	-
+MLRO Approval Due Date
+mlro_approval_due_date__c
+
+MLRO Approval Due Date
+mlro_approval_due_date__c
+-	-
+Page Numbers
+page_numbers__c
+
+Page Numbers
+page_numbers__c
+-	-
+Responsible Party
+responsible_party__c
+
+Responsible Party
+responsible_party__c
+-	-
+Advisory Comment Submit Cycle Count
+advisory_comment_submit_cycle_count__c
+
+Advisory Comment Submit Cycle Count
+advisory_comment_submit_cycle_count__c
+-	-
+Sub Coordinator Reason for R&R
+sub_coordinator_reason_for_reject__c
+
+Sub Coordinator Reason for R&R
+sub_coordinator_reason_for_reject__c
+-	-
+Distribution Location
+distribution_location__c
+
+Distribution Location
+distribution_location__c
+-	-
+Days in Review
+days_in_review__v
+
+Days in Review
+days_in_review__v
+-	-
+Create Draft Date post AFD
+create_draft_date_post_afd__c
+
+Create Draft Date post AFD
+create_draft_date_post_afd__c
+-	-
+Non-Product Claim Category
+non_claim_category__c
+
+Non-Product Claim Category
+non_claim_category__c
+-	-
+Rights Expiration Date
+rights_expiration_date__v
+
+Rights Expiration Date
+rights_expiration_date__v
+-	-
+Revision
+revision__v
+
+Revision
+revision__v
+-	-
+MLR Review Category
+risk_category__c
+
+MLR Review Category
+risk_category__c
+-	-
+Publish Name Short Description
+publish_name_short_description__c
+
+Publish Name Short Description
+publish_name_short_description__c
+-	-
+Mail - All Addresses Opt-Out Short Descr
+mail_all_addresses_optout_short_descr__c
+
+Mail - All Addresses Opt-Out Short Descr
+mail_all_addresses_optout_short_descr__c
+-	-
+Re-Order
+reorder__c
+
+Re-Order
+reorder__c
+-	-
+Ext Desc
+ext_desc__c
+
+Ext Desc
+ext_desc__c
+-	-
+Profiling Short Description
+profiling_short_description__c
+
+Profiling Short Description
+profiling_short_description__c
+-	-
+Preprocessed
+preprocessed__v
+
+Preprocessed
+preprocessed__v
+-	-
+Purpose
+purpose__c
+
+Purpose
+purpose__c
+-	-
+Check Out Type
+checkout_type__sys
+
+Check Out Type
+checkout_type__sys
+-	-
+Approval Path Count for Express
+approval_path_count_for_express__c
+
+Approval Path Count for Express
+approval_path_count_for_express__c
+-	-
+Dissemination / Publication Date
+dissemination_publication_date__v
+
+Dissemination / Publication Date
+dissemination_publication_date__v
+-	-
+One Time Use
+one_time_use__c
+
+One Time Use
+one_time_use__c
+-	-
+Size
+size__v
+
+Size
+size__v
+-	-
+Approval Path Last Record
+approval_path_last_record__c
+
+Approval Path Last Record
+approval_path_last_record__c
+-	-
+Expedited
+expedited__c
+
+Expedited
+expedited__c
+-	-
+Rights Countries
+rights_countries__v
+
+Rights Countries
+rights_countries__v
+-	-
+Checksum
+md5checksum__v
+
+Checksum
+md5checksum__v
+-	-
+Global Content Type
+global_content_type__v
+
+Global Content Type
+global_content_type__v
+-	-
+Survey (old)
+crm_survey1__v
+
+Survey (old)
+crm_survey1__v
+-	-
+GoLD Labeling Link
+gold_labeling_link__c
+
+GoLD Labeling Link
+gold_labeling_link__c
+-	-
+Tactic contains/includes a Product Offer
+tactic_containsincludes_a_product_offer1__c
+
+Tactic contains/includes a Product Offer
+tactic_containsincludes_a_product_offer1__c
+-	-
+Approval Path Count for Normal
+approval_path_count_for_normal__c
+
+Approval Path Count for Normal
+approval_path_count_for_normal__c
+-	-
+Annotation (Resolved)
+annotations_resolved__v
+
+Annotation (Resolved)
+annotations_resolved__v
+-	-
+Proofreader Return to Marketing
+proofreader_return_to_marketing__c
+
+Proofreader Return to Marketing
+proofreader_return_to_marketing__c
+-	-
+Production Owner Org
+production_owner_org__c
+
+Production Owner Org
+production_owner_org__c
+-	-
+Rendition Profile
+rendition_profile__v
+
+Rendition Profile
+rendition_profile__v
+-	-
+Is this a template
+is_this_a_template__c
+
+Is this a template
+is_this_a_template__c
+-	-
+Category
+category__c
+
+Category
+category__c
+-	-

@@ -1,0 +1,350 @@
+Resources:
+  redbccmpcpextattrsappflowcft:
+    Properties:
+      FlowName: edb_ccm_pcp_extended_attr_appflow
+      Description: PCP Extended Attributes Appflow
+      SourceFlowConfig:
+        ConnectorType: Salesforce
+        ConnectorProfileName:
+          Ref: pConnectorProfile
+        SourceConnectorProperties:
+          Salesforce:
+            Object: DTPC_Extended_Attributes__ChangeEvent
+            EnableDynamicFieldUpdate: 'true'
+            IncludeDeletedRecords: 'true'
+      DestinationFlowConfigList:
+      - ConnectorType: S3
+        DestinationConnectorProperties:
+          S3:
+            BucketName:
+              Ref: pBucketName
+            BucketPrefix:
+              Ref: pBucketPrefixAppflowExtAttributes
+            S3OutputFormatConfig:
+              FileType: JSON
+              AggregationConfig:
+                AggregationType: None
+      Tasks:
+      - SourceFields:
+        - id
+        - name__v
+        - status__v
+        - abbreviation__vs
+        - generic_name__vs
+        - internal_name__vs
+        - compound_id__vs
+        - inn__vs
+        - therapeutic_area__vs
+        - product_family__vs
+        - manufacturer_name__v
+        - external_id__v
+        - created_by__v
+        - created_date__v
+        - modified_by__v
+        - modified_date__v
+        - business_unit1__c
+        - product_family_group__c
+        - global_id__sys
+        - link__sys
+        - current_pilabel_number__c
+        - current_pilabel_number_unbound__c
+        - application__c
+        - applicant__c
+        TaskType: Filter
+        ConnectorOperator:
+          Salesforce: PROJECTION
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: id
+        - Key: DESTINATION_DATA_TYPE
+          Value: id
+        SourceFields:
+        - id
+        DestinationField: id
+        ConnectorOperator:
+          Salesforce: NO_OP
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: name__v
+        - Key: DESTINATION_DATA_TYPE
+          Value: name__v
+        SourceFields:
+        - name__v
+        DestinationField: name__v
+        ConnectorOperator:
+          Salesforce: NO_OP
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: status__v
+        - Key: DESTINATION_DATA_TYPE
+          Value: status__v
+        SourceFields:
+        - status__v
+        DestinationField: status__v
+        ConnectorOperator:
+          Salesforce: NO_OP
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: abbreviation__vs
+        - Key: DESTINATION_DATA_TYPE
+          Value: abbreviation__vs
+        SourceFields:
+        - abbreviation__vs
+        DestinationField: abbreviation__vs
+        ConnectorOperator:
+          Salesforce: NO_OP
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: generic_name__vs
+        - Key: DESTINATION_DATA_TYPE
+          Value: generic_name__vs
+        SourceFields:
+        - generic_name__vs
+        DestinationField: generic_name__vs
+        ConnectorOperator:
+          Salesforce: NO_OP
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: internal_name__vs
+        - Key: DESTINATION_DATA_TYPE
+          Value: internal_name__vs
+        SourceFields:
+        - internal_name__vs
+        DestinationField: internal_name__vs
+        ConnectorOperator:
+          Salesforce: NO_OP
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: compound_id__vs
+        - Key: DESTINATION_DATA_TYPE
+          Value: compound_id__vs
+        SourceFields:
+        - compound_id__vs
+        DestinationField: compound_id__vs
+        ConnectorOperator:
+          Salesforce: NO_OP
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: inn__vs
+        - Key: DESTINATION_DATA_TYPE
+          Value: inn__vs
+        SourceFields:
+        - inn__vs
+        DestinationField: inn__vs
+        ConnectorOperator:
+          Salesforce: NO_OP
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: therapeutic_area__vs
+        - Key: DESTINATION_DATA_TYPE
+          Value: therapeutic_area__vs
+        SourceFields:
+        - therapeutic_area__vs
+        DestinationField: therapeutic_area__vs
+        ConnectorOperator:
+          Salesforce: NO_OP
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: product_family__vs
+        - Key: DESTINATION_DATA_TYPE
+          Value: product_family__vs
+        SourceFields:
+        - product_family__vs
+        DestinationField: product_family__vs
+        ConnectorOperator:
+          Salesforce: NO_OP
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: manufacturer_name__v
+        - Key: DESTINATION_DATA_TYPE
+          Value: manufacturer_name__v
+        SourceFields:
+        - manufacturer_name__v
+        DestinationField: manufacturer_name__v
+        ConnectorOperator:
+          Salesforce: NO_OP
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: external_id__v
+        - Key: DESTINATION_DATA_TYPE
+          Value: external_id__v
+        SourceFields:
+        - external_id__v
+        DestinationField: external_id__v
+        ConnectorOperator:
+          Salesforce: NO_OP
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: created_by__v
+        - Key: DESTINATION_DATA_TYPE
+          Value: created_by__v
+        SourceFields:
+        - created_by__v
+        DestinationField: created_by__v
+        ConnectorOperator:
+          Salesforce: NO_OP
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: created_date__v
+        - Key: DESTINATION_DATA_TYPE
+          Value: created_date__v
+        SourceFields:
+        - created_date__v
+        DestinationField: created_date__v
+        ConnectorOperator:
+          Salesforce: NO_OP
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: modified_by__v
+        - Key: DESTINATION_DATA_TYPE
+          Value: modified_by__v
+        SourceFields:
+        - modified_by__v
+        DestinationField: modified_by__v
+        ConnectorOperator:
+          Salesforce: NO_OP
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: modified_date__v
+        - Key: DESTINATION_DATA_TYPE
+          Value: modified_date__v
+        SourceFields:
+        - modified_date__v
+        DestinationField: modified_date__v
+        ConnectorOperator:
+          Salesforce: NO_OP
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: business_unit1__c
+        - Key: DESTINATION_DATA_TYPE
+          Value: business_unit1__c
+        SourceFields:
+        - business_unit1__c
+        DestinationField: business_unit1__c
+        ConnectorOperator:
+          Salesforce: NO_OP
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: product_family_group__c
+        - Key: DESTINATION_DATA_TYPE
+          Value: product_family_group__c
+        SourceFields:
+        - product_family_group__c
+        DestinationField: product_family_group__c
+        ConnectorOperator:
+          Salesforce: NO_OP
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: global_id__sys
+        - Key: DESTINATION_DATA_TYPE
+          Value: global_id__sys
+        SourceFields:
+        - global_id__sys
+        DestinationField: global_id__sys
+        ConnectorOperator:
+          Salesforce: NO_OP
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: link__sys
+        - Key: DESTINATION_DATA_TYPE
+          Value: link__sys
+        SourceFields:
+        - link__sys
+        DestinationField: link__sys
+        ConnectorOperator:
+          Salesforce: NO_OP
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: current_pilabel_number__c
+        - Key: DESTINATION_DATA_TYPE
+          Value: current_pilabel_number__c
+        SourceFields:
+        - current_pilabel_number__c
+        DestinationField: current_pilabel_number__c
+        ConnectorOperator:
+          Salesforce: NO_OP
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: current_pilabel_number_unbound__c
+        - Key: DESTINATION_DATA_TYPE
+          Value: current_pilabel_number_unbound__c
+        SourceFields:
+        - current_pilabel_number_unbound__c
+        DestinationField: current_pilabel_number_unbound__c
+        ConnectorOperator:
+          Salesforce: NO_OP
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: application__c
+        - Key: DESTINATION_DATA_TYPE
+          Value: application__c
+        SourceFields:
+        - application__c
+        DestinationField: application__c
+        ConnectorOperator:
+          Salesforce: NO_OP
+      - TaskType: Map
+        TaskProperties:
+        - Key: SOURCE_DATA_TYPE
+          Value: applicant__c
+        - Key: DESTINATION_DATA_TYPE
+          Value: applicant__c
+        SourceFields:
+        - applicant__c
+        DestinationField: applicant__c
+        ConnectorOperator:
+          Salesforce: NO_OP
+      Tags:
+      - Key: pApplicationCi
+        Value:
+          Ref: pApplicationCi
+      - Key: pCostCenter
+        Value:
+          Ref: pCostCenter
+      - Key: pCostCenterApprover
+        Value:
+          Ref: pCostCenterApprover
+      - Key: pDataClassification
+        Value:
+          Ref: pDataClassification
+      - Key: pHipaa
+        Value:
+          Ref: pHipaa
+      - Key: pLevel1BusinessArea
+        Value:
+          Ref: pLevel1BusinessArea
+      - Key: pPrimaryItContact
+        Value:
+          Ref: pPrimaryItContact
+      - Key: pSystemCustodian
+        Value:
+          Ref: pSystemCustodian
+      - Key: pSystemOwner
+        Value:
+          Ref: pSystemOwner
+      TriggerConfig:
+        TriggerType: Event
+    Type: AWS::AppFlow::Flow

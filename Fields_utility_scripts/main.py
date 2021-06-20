@@ -98,13 +98,18 @@ print(" no of objects is ",No_of_objects)
 # print(list)
 new_list = []
 
+length_list = len(list)
+pipe_count = length_list-1
+
 for i in list:
     # print(i,end = '')
     x = len(i)
     word = i[0:x-1]
     new_list.append(word)
     fw.write(word)
-    fw.write('|')
+    if pipe_count!= 0:
+     fw.write('|')
+     pipe_count-=1
 
 # print(new_list)
 

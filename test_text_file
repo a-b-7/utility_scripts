@@ -1,0 +1,238 @@
+Services
+Skip to Main Content
+Search for services, features, marketplace products, and docs
+[Alt+S]
+
+
+aws_edb_commercial_appflow_developers/L009138-CA @ lilly-dev-...
+
+Ohio
+
+Support
+
+Amazon AppFlow
+Flows
+Create flow
+Step 1
+Specify flow details
+Step 2
+Configure flow
+Step 3
+Map data fields
+Step 4
+Add filters
+Step 5
+Review and create
+Review and create
+Step 1: Flow details
+Edit
+Flow details
+Flow name
+ewaffewq
+Flow description
+efwfew
+Data encryption
+AWS KMS key
+AWS managed key
+Tags (0)
+Find flow runs
+
+1
+
+Key
+Value
+No tags
+No tags to display
+
+Step 2: Configure flow
+Edit
+Source details
+Source name
+Veeva
+Source object
+Product
+Destination details
+Destination name
+Amazon S3
+Destination bucket
+https://s3.console.aws.amazon.com/s3/buckets/lly-edp-restore-support-us-east-2-dev/ewaffewq/ 
+Additional settings
+Flow trigger
+Trigger type
+On demand
+Step 3: Mapped data fields/Validations
+Edit
+Mapped fields (24)
+Source field name
+Destination field name
+Formula
+Data modifications
+ID
+id
+
+ID
+id
+-	-
+Product Name
+name__v
+
+Product Name
+name__v
+-	-
+Status
+status__v
+
+Status
+status__v
+-	-
+Product Abbreviation
+abbreviation__vs
+
+Product Abbreviation
+abbreviation__vs
+-	-
+Generic Name
+generic_name__vs
+
+Generic Name
+generic_name__vs
+-	-
+Internal Name
+internal_name__vs
+
+Internal Name
+internal_name__vs
+-	-
+Compound ID
+compound_id__vs
+
+Compound ID
+compound_id__vs
+-	-
+INN
+inn__vs
+
+INN
+inn__vs
+-	-
+Therapeutic Area
+therapeutic_area__vs
+
+Therapeutic Area
+therapeutic_area__vs
+-	-
+Product Family
+product_family__vs
+
+Product Family
+product_family__vs
+-	-
+Manufacturer Name
+manufacturer_name__v
+
+Manufacturer Name
+manufacturer_name__v
+-	-
+External ID
+external_id__v
+
+External ID
+external_id__v
+-	-
+Created By
+created_by__v
+
+Created By
+created_by__v
+-	-
+Created Date
+created_date__v
+
+Created Date
+created_date__v
+-	-
+Last Modified By
+modified_by__v
+
+Last Modified By
+modified_by__v
+-	-
+Last Modified Date
+modified_date__v
+
+Last Modified Date
+modified_date__v
+-	-
+Business Unit
+business_unit1__c
+
+Business Unit
+business_unit1__c
+-	-
+Product Family Group
+product_family_group__c
+
+Product Family Group
+product_family_group__c
+-	-
+Global ID
+global_id__sys
+
+Global ID
+global_id__sys
+-	-
+Link
+link__sys
+
+Link
+link__sys
+-	-
+Current PI/Label Number
+current_pilabel_number__c
+
+Current PI/Label Number
+current_pilabel_number__c
+-	-
+Current PI/Label Number (unbound)
+current_pilabel_number_unbound__c
+
+Current PI/Label Number (unbound)
+current_pilabel_number_unbound__c
+-	-
+Application
+application__c
+
+Application
+application__c
+-	-
+Applicant
+applicant__c
+
+Applicant
+applicant__c
+-	-
+Validations (0)
+Field name
+Condition
+Action
+No validations
+No validations to display
+
+Step 4: Filters
+Edit
+Filters (0)
+Field name
+Condition
+Criteria 1
+Criteria 2
+No filters
+No filters to display
+
+CancelPreviousCreate flow
+
+Feedback
+English (US)
+© 2008 - 2021, Amazon Web Services, Inc. or its affiliates. All rights reserved.
+Privacy Policy
+Terms of Use
+Cookie preferences

@@ -112,5 +112,29 @@ for i in list:
      pipe_count-=1
 
 # print(new_list)
+fr.close()
+nw.close()
+fw.close()
 
+print('*'*40)
+print("DO you want to values too? it will return strings for all fields")
+print('*'*40)
+
+choice= str(input(" type n for no y for yes.."))
+
+if choice.lower() == 'n':
+    print(" exiting..")
+    os._exit(0)
+else:
+ with open("final_file.txt", mode = 'a') as file:
+    file.write('\n'*3)
+    file.write('*'*20)
+    file.write("........................values................")
+    file.write('*'*20)
+    file.write('\n'*3)
+
+    for i in range (No_of_objects):
+        file.write("String")
+        if i<(No_of_objects-1):
+            file.write("|")
 
